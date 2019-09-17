@@ -48,3 +48,14 @@ Test Opgave 2
 
 test opgave 3
 
+        3.1
+        first = 20, second= 35
+     expected = second
+
+        3.2
+        first =100, second =10
+        expected = first
+
+        3.3
+        first = 5, second =10
+        expected = second
