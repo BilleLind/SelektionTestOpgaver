@@ -59,3 +59,17 @@ test opgave 3
         3.3
         first = 5, second =10
         expected = second
+
+Test opgave 4
+        4.1
+        first= 10, second=10, third =11
+        expected = third
+
+        4.2
+        first =12, second =15, third =1
+        expected second
+
+        4.3
+        first =1000, second = 2501, third = 999
+        expected first
+
