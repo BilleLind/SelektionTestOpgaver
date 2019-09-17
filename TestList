@@ -73,3 +73,19 @@ Test opgave 4
         first =1000, second = 2501, third = 999
         expected second
 
+test opgave 5
+        if (x<10 ) {return result "[0..9]"
+        if (x=10 &&x <19) {return result "[10..19]"
+        osv.
+
+        5.1
+        x=52
+        expected tilhører 50..59
+
+        5.2
+        x=30
+        expected tilhører 30..39
+
+        5.3
+        x=98
+        expected tilhører 90..99
