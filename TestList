@@ -1,0 +1,50 @@
+Test Opgave 1
+test 1 A
+          boolean A;
+          A = x <=x && z !=y;
+          expected result A==true
+
+test 1 B
+        Boolean B;
+        B = x==5 || x ==y && z==3
+        expected result B == true
+
+test 1. C
+        boolean C;
+        C = x / y > z / x
+        expected result C == true
+
+test 1. D
+         boolean D;
+        D = !(x != y- z ) == false
+        expected result true
+
+test 1. E
+        boolean E;
+        E = 2 * x != x || x == 0;
+        expected result = true
+
+test 1. F
+        boolean F;
+        F = !true || !false
+        expected result = true
+
+Test Opgave 2
+        2.1
+        ved at erklærer x til 41 og y til 67
+        vil det expected være true, alstå at den siger "summen er større end hundrede"
+
+        2.2
+        da værdierne til sammen giver mere end hundrede
+        vil expected være true
+
+        2.3
+        da vædrierne vil give 100
+        vil expected være false, da det ikke
+
+        2.4
+        da værdierne vil give mindre en 60
+        vil expected være false da den ikke siger summen er større
+
+test opgave 3
+
