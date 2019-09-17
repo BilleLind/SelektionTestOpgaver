@@ -24,7 +24,7 @@ public class Opgave4Test {
         first=1000;
         second=2501;
         third=999;
-        if (Opgave4.størst1(first, second, third).equals("first")) {
+        if (Opgave4.størst1(first, second, third).equals("second")) {
             System.out.println("pass");
         } else {System.out.println("fail");}
 
